@@ -1,0 +1,1 @@
+localdummy=function()returntrueend;localjunk=function()fori=1,500doifi%3==0thenlocala=i*2endend;junk();dummy();localfunctionwrapper()localfunction_a()returntrueendlocalfunction_b()if_a()thenwhilenotfalsedo
